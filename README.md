@@ -4,13 +4,13 @@ I’m a [Software Engineer](https://www.linkedin.com/in/kavindup) with a Bachelo
 > Struggling with AWS complexity or stuck on-premise? Let's transform your cloud journey.
 >
 ><details><summary>☁️ <strong>Discover more about my one-person business: Towards the Cloud</strong></summary>
-
+>
 ><br/>
-
+>
 >Hi, I'm Kavindu – a passionate Software Engineer specializing in AWS cloud solutions, serverless architectures, and scalable software development. With a Bachelor’s degree in Computer Science and practical experience in deploying cloud-native applications, I’m here to help businesses unlock the full potential of AWS.
-
-#### Here’s what I bring to the table:
-
+>
+>#### Here’s what I bring to the table:
+>
 >- **Infrastructure as Code Expertise**: Proficient in tools like AWS CloudFormation and AWS Amplify to automate and streamline infrastructure provisioning and management.
 >- **Hands-On AWS Experience**: Skilled in leveraging AWS services such as Lambda, Step Functions, AppSync, Cognito, DynamoDB, and S3 to build reliable and scalable serverless solutions.
 >- **Certified Knowledge**: [Proud holder of the 3 badges](https://www.credly.com/users/kavindu-pramod), with a strong foundation in AWS serverless technologies and cloud security.
