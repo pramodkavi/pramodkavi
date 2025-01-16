@@ -1,3 +1,5 @@
+# [![Kavindu Pramod header](./LinkedinCover.jpg)](https://www.linkedin.com/in/kavindup)
+
 I’m a [Software Engineer](https://www.linkedin.com/in/kavindup) with a Bachelor’s degree in Computer Science, I bring hands on experience in scalable software development with a solid foundation in cloud solutions.
 
 > [!TIP]
